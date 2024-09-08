@@ -1,0 +1,67 @@
+{
+  "grupos": [
+    {
+      "id": 1,
+      "numeroGrupo": 1,
+      "territorio": 101,
+      "capitan": "Juan Pérez",
+      "telefono": "555-1234",
+      "direccion": "Calle Falsa 123",
+      "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8354345093717!2d144.955923!3d-37.817209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0xb69c8c77cb205b0!2sFederation%20Square%2C%20Melbourne%20VIC%203001%2C%20Australia!5e0!3m2!1sen!2sus!4v1634085963410!5m2!1sen!2sus"
+    },
+    {
+      "id": 2,
+      "numeroGrupo": 2,
+      "territorio": 102,
+      "capitan": "Carlos Gómez",
+      "telefono": "555-5678",
+      "direccion": "Avenida Siempreviva 742",
+      "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.911298494017!2d-74.0338096!3d40.7629884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855025b65f1%3A0xc3f64a45cf41f256!2sNewport%20Mall%2C%20Jersey%20City%2C%20NJ%2007302%2C%20USA!5e0!3m2!1sen!2sus!4v1634086009300!5m2!1sen!2sus"
+    },
+    {
+      "id": 3,
+      "numeroGrupo": 3,
+      "territorio": 103,
+      "capitan": "Lucía Martínez",
+      "telefono": "555-4321",
+      "direccion": "Plaza Mayor",
+      "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.9332594038395!2d-3.7037993!3d40.4167754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x45bd742bd303bd78!2sPlaza%20Mayor!5e0!3m2!1ses!2ses!4v1634086050130!5m2!1ses!2ses"
+    },
+    {
+      "id": 4,
+      "numeroGrupo": 4,
+      "territorio": 104,
+      "capitan": "Ana Rodríguez",
+      "telefono": "555-8765",
+      "direccion": "Torre Eiffel",
+      "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.3370202362753!2d2.292292!3d48.858373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66feca4a2e755%3A0x4e7b2376bdcd76!2sEiffel%20Tower%2C%20Paris%2C%20France!5e0!3m2!1sen!2sus!4v1634086087234!5m2!1sen!2sus"
+    },
+    {
+      "id": 5,
+      "numeroGrupo": 5,
+      "territorio": 105,
+      "capitan": "Pedro Sánchez",
+      "telefono": "555-6543",
+      "direccion": "Museo del Prado",
+      "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.000780271013!2d-3.6923106!3d40.4132235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x11b5ba84c67bb10!2sMuseo%20Nacional%20del%20Prado!5e0!3m2!1ses!2ses!4v1634086128476!5m2!1ses!2ses"
+    },
+    {
+      "id": 6,
+      "numeroGrupo": 6,
+      "territorio": 130,
+      "capitan": "María García",
+      "telefono": "555-9876",
+      "direccion": "Golden Gate Bridge",
+      "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.671398927574!2d-122.4782559!3d37.8199328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858066c0e4512f%3A0xe63b17c627df2a9d!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1634086160395!5m2!1sen!2sus"
+    },
+    {
+      "id": 7,
+      "numeroGrupo": 7,
+      "territorio": 10,
+      "capitan": "Hernan García",
+      "telefono": "555-9876",
+      "direccion": "Golden Gate Bridge",
+      "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.671398927574!2d-122.4782559!3d37.8199328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858066c0e4512f%3A0xe63b17c627df2a9d!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1634086160395!5m2!1sen!2sus"
+    }
+  ]
+}
