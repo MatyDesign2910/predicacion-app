@@ -26,7 +26,7 @@ const GruposServicio = () => {
 
     useEffect(() => {
         // Cargar los datos de los grupos desde el archivo JSON
-        fetch('/grupos.json')
+        fetch('./grupos.json')
             .then((response) => response.json())
             .then((data) => setGrupos(data.grupos))
             .catch((error) => console.error('Error al cargar los datos:', error));

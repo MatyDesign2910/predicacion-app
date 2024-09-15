@@ -16,7 +16,7 @@ const AdminDashboard = () => {
 
   useEffect(() => {
     // Cargar los datos del JSON
-    fetch('/formularios.json')
+    fetch('./formularios.json')
       .then((response) => response.json())
       .then((data) => {
         // Obtener datos guardados en localStorage
