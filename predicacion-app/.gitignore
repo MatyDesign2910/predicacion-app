@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+predicacion-app/.gitignore
+.DS_Store
+grupos-paine/
+
 # testing
 /coverage
 
