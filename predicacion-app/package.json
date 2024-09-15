@@ -59,7 +59,7 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://MatyDesign2910.github.io",
+  "homepage": "https://MatyDesign2910.github.io/grupos-paine",
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0",
     "react-dom": "^17.0.0 || ^18.0.0"
