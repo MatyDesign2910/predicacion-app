@@ -39,7 +39,7 @@ const App = () => {
       <CssBaseline />
     <Container maxWidth="sm" sx={{ p:0 }}>
     <Box sx={{ bgcolor: '#cfe8fc', height: 'auto', minHeight: '100vh', m: 0, p:0 }}>
-    <Router>
+    <Router basename="/predicacion-app/">
       <Routes>
         <Route path="/" element={isAuthenticated ? <Menu isAdmin={isAdmin} /> : <Login onLogin={handleLogin} />} />
         <Route path="/login" element={<Login onLogin={handleLogin} />} />

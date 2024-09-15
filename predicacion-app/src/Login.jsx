@@ -13,7 +13,6 @@ import OutlinedInput from '@mui/material/OutlinedInput';
 import Visibility from '@mui/icons-material/Visibility';
 import VisibilityOff from '@mui/icons-material/VisibilityOff';
 
-
 const Login = ({ onLogin }) => {
   const label = { inputProps: { 'aria-label': 'Admin' } };
   const [username, setUsername] = useState('');
@@ -24,7 +23,7 @@ const Login = ({ onLogin }) => {
   const handleSubmit = (event) => {
     event.preventDefault();
     // Aquí puedes agregar lógica de autenticación real
-    fetch('/usuarios.json')
+    fetch('./usuarios.json')
       .then(response => response.json())
       .then(data => {
         const user = data.users.find(user => user.username === username && user.password === password);
@@ -33,7 +32,7 @@ const Login = ({ onLogin }) => {
           localStorage.setItem('userType', user.type); // 'admin' o 'user'
           localStorage.setItem('username', username); // Guardar el nombre de usuario si es necesario
           onLogin(user.type === 'admin');
-          navigate('/');
+          navigate('/');  // Navegar a la ruta correcta con el basename
         } else {
           alert('Usuario o contraseña incorrectos');
         }
