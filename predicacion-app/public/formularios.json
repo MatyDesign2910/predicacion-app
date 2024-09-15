@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "nombre": "Carlos López",
+      "grupo": 1,
+      "participo": true,
+      "precursor": true,
+      "horas": 10,
+      "estudios": 1,
+      "revisitas": 5
+    },
+    {
+      "id": 2,
+      "nombre": "María Rodríguez",
+      "grupo": 2,
+      "participo": false,
+      "precursor": false,
+      "horas": 0,
+      "estudios": 0,
+      "revisitas": 0
+    }
+  ]
+  
